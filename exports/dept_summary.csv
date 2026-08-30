@@ -1,0 +1,449 @@
+department,category,priority,tickets,avg_hrs,avg_satisfaction
+Finance,Cloud/Infrastructure,Critical,3,6.67,1.33
+Human Resources,Cloud/Infrastructure,Critical,11,6.58,2.44
+Logistics,Database,Critical,14,5.03,2.50
+Engineering,Access/Permissions,Critical,10,5.06,2.50
+Finance,Network,Critical,11,5.15,2.50
+Operations,Email/Communication,High,19,14.53,2.50
+Finance,Software,High,29,15.69,2.52
+Sales,Email/Communication,High,13,13.96,2.55
+Operations,Cloud/Infrastructure,Low,14,99.48,2.55
+Human Resources,Access/Permissions,High,21,16.02,2.56
+Procurement,Email/Communication,High,19,14.68,2.56
+Logistics,Access/Permissions,Critical,8,5.06,2.57
+Research,Email/Communication,High,19,16.48,2.58
+Logistics,Network,High,30,14.89,2.58
+Product,Network,Low,26,103.32,2.58
+Product,Email/Communication,Medium,36,40.11,2.60
+Sales,Access/Permissions,High,24,16.24,2.63
+Procurement,Network,Low,23,94.68,2.63
+Procurement,Cloud/Infrastructure,Medium,12,47.75,2.63
+Marketing,Hardware,Critical,16,5.63,2.64
+Marketing,Access/Permissions,High,21,16.59,2.64
+Human Resources,Security,Low,9,113.30,2.67
+Product,Software,High,25,15.51,2.67
+Finance,Security,Critical,11,5.58,2.67
+Executive,Cloud/Infrastructure,High,11,17.53,2.67
+Human Resources,Email/Communication,Medium,29,45.90,2.71
+Sales,Cloud/Infrastructure,Low,9,92.03,2.71
+Legal,Database,Critical,9,4.99,2.71
+Product,Hardware,Critical,18,4.73,2.73
+Human Resources,Database,Critical,13,4.18,2.73
+Executive,Security,Low,4,109.53,2.75
+Finance,Database,Medium,21,43.88,2.75
+Procurement,Network,Critical,5,4.63,2.75
+Sales,Email/Communication,Medium,32,47.28,2.77
+Finance,Cloud/Infrastructure,High,12,16.59,2.78
+Customer Support,Software,High,25,14.88,2.79
+Logistics,Email/Communication,High,12,13.36,2.80
+Research,Hardware,Medium,53,43.82,2.81
+Executive,Database,Medium,24,42.98,2.81
+IT,Database,Medium,15,45.69,2.82
+Product,Access/Permissions,Critical,13,4.99,2.82
+Research,Email/Communication,Critical,18,5.08,2.82
+Logistics,Software,Critical,7,3.97,2.83
+Product,Security,Low,6,104.67,2.83
+Product,Network,Critical,14,4.53,2.83
+Legal,Network,High,34,14.22,2.84
+Product,Network,High,27,13.07,2.85
+Executive,Cloud/Infrastructure,Low,14,109.93,2.86
+Legal,Hardware,Critical,13,5.44,2.86
+Sales,Network,Low,27,97.76,2.86
+Customer Support,Network,Low,31,106.24,2.87
+Human Resources,Email/Communication,Critical,10,4.94,2.88
+Customer Support,Database,High,15,13.63,2.88
+Operations,Access/Permissions,High,25,13.68,2.90
+Procurement,Cloud/Infrastructure,High,15,14.75,2.91
+Research,Database,High,17,12.82,2.92
+Logistics,Security,Critical,18,4.81,2.93
+Engineering,Software,Medium,41,41.03,2.94
+Human Resources,Hardware,High,27,13.23,2.94
+Product,Email/Communication,High,20,13.11,2.94
+Executive,Access/Permissions,High,29,13.78,2.95
+IT,Email/Communication,Low,26,92.63,2.95
+Executive,Network,High,31,14.33,2.96
+Sales,Security,Critical,10,3.84,3.00
+Customer Support,Software,Low,44,91.87,3.00
+Marketing,Cloud/Infrastructure,Medium,15,40.71,3.00
+Marketing,Email/Communication,Critical,8,4.18,3.00
+Human Resources,Database,Medium,19,44.91,3.00
+Customer Support,Access/Permissions,Critical,14,3.36,3.00
+Engineering,Email/Communication,Low,20,107.38,3.00
+Executive,Security,High,20,14.96,3.00
+Marketing,Security,Critical,15,4.96,3.00
+Operations,Email/Communication,Critical,9,3.26,3.00
+IT,Database,Low,8,88.66,3.00
+Logistics,Cloud/Infrastructure,Critical,6,5.36,3.00
+Research,Security,Low,8,112.24,3.00
+Sales,Cloud/Infrastructure,Medium,15,33.91,3.00
+Executive,Cloud/Infrastructure,Medium,18,37.28,3.00
+Engineering,Network,Medium,39,41.77,3.00
+Procurement,Email/Communication,Low,22,95.87,3.00
+Product,Email/Communication,Low,11,108.41,3.00
+Operations,Software,High,21,13.86,3.00
+Sales,Network,Critical,6,4.87,3.00
+Executive,Access/Permissions,Low,42,88.11,3.00
+Sales,Security,High,22,13.78,3.00
+Executive,Database,High,19,13.51,3.00
+Engineering,Cloud/Infrastructure,Medium,20,41.78,3.00
+Operations,Access/Permissions,Low,30,91.77,3.00
+Legal,Access/Permissions,High,22,12.64,3.00
+Procurement,Database,Low,6,121.65,3.00
+Engineering,Email/Communication,High,10,17.47,3.00
+Sales,Database,Medium,13,41.46,3.00
+Product,Access/Permissions,High,18,14.77,3.00
+Human Resources,Software,Medium,51,40.05,3.02
+Executive,Hardware,Medium,59,35.24,3.02
+Logistics,Access/Permissions,Low,35,92.32,3.03
+Executive,Email/Communication,Low,31,95.23,3.05
+IT,Network,High,26,13.57,3.05
+Marketing,Hardware,High,22,14.07,3.05
+Engineering,Database,Medium,20,39.46,3.06
+Engineering,Hardware,Critical,23,4.60,3.06
+Research,Hardware,Low,36,88.23,3.07
+IT,Software,Low,35,97.25,3.07
+Marketing,Network,Low,16,93.97,3.07
+Sales,Email/Communication,Low,19,81.31,3.08
+Customer Support,Email/Communication,Low,19,85.83,3.08
+Customer Support,Network,High,30,14.97,3.08
+Legal,Access/Permissions,Low,50,95.38,3.08
+Marketing,Network,Medium,53,40.55,3.08
+Customer Support,Cloud/Infrastructure,Medium,16,38.61,3.09
+Product,Software,Low,31,97.16,3.09
+Engineering,Cloud/Infrastructure,Low,15,83.92,3.09
+IT,Hardware,Medium,59,38.71,3.09
+Legal,Software,High,33,13.61,3.09
+Logistics,Cloud/Infrastructure,High,17,12.59,3.09
+Research,Cloud/Infrastructure,Low,13,117.51,3.10
+Sales,Access/Permissions,Low,27,94.58,3.10
+Customer Support,Database,Critical,11,4.08,3.10
+Engineering,Network,High,24,12.61,3.10
+IT,Cloud/Infrastructure,High,15,11.57,3.10
+Procurement,Cloud/Infrastructure,Critical,13,3.94,3.11
+Sales,Software,Critical,11,4.67,3.11
+Procurement,Hardware,Medium,37,38.61,3.11
+Finance,Access/Permissions,Low,48,84.23,3.11
+Human Resources,Hardware,Low,37,84.44,3.12
+Engineering,Database,Low,11,86.76,3.13
+Logistics,Email/Communication,Medium,39,37.82,3.13
+Sales,Software,High,28,13.00,3.13
+Operations,Access/Permissions,Medium,29,37.30,3.13
+Legal,Access/Permissions,Critical,10,4.86,3.13
+Finance,Cloud/Infrastructure,Low,9,98.50,3.13
+Customer Support,Access/Permissions,Medium,37,36.55,3.14
+Customer Support,Email/Communication,Critical,9,4.70,3.14
+Legal,Cloud/Infrastructure,High,10,9.84,3.14
+IT,Email/Communication,Critical,19,4.31,3.14
+Sales,Access/Permissions,Critical,7,4.29,3.14
+IT,Security,Medium,12,40.43,3.14
+Product,Hardware,High,27,12.90,3.14
+Engineering,Email/Communication,Medium,33,41.91,3.14
+Product,Cloud/Infrastructure,Critical,12,3.87,3.14
+Marketing,Software,Low,37,80.79,3.14
+Human Resources,Security,Medium,14,40.19,3.15
+Procurement,Hardware,Critical,18,4.45,3.15
+Research,Hardware,Critical,18,3.60,3.15
+Customer Support,Hardware,High,24,12.58,3.16
+Legal,Security,High,22,14.90,3.17
+Procurement,Software,High,29,14.40,3.17
+Product,Hardware,Medium,49,34.40,3.17
+Logistics,Software,High,19,14.73,3.17
+Finance,Hardware,Medium,61,36.57,3.17
+IT,Software,Critical,12,4.83,3.17
+Finance,Email/Communication,High,26,11.91,3.17
+Logistics,Database,Medium,18,39.93,3.17
+Human Resources,Cloud/Infrastructure,High,11,11.15,3.18
+Human Resources,Network,Critical,16,4.25,3.18
+Product,Hardware,Low,31,84.29,3.18
+Finance,Database,High,17,12.96,3.18
+Research,Software,Low,44,82.39,3.18
+IT,Network,Low,21,82.03,3.19
+Legal,Email/Communication,Medium,30,36.86,3.19
+Legal,Network,Medium,45,44.18,3.19
+IT,Access/Permissions,High,23,12.37,3.19
+Operations,Network,High,25,10.88,3.19
+Marketing,Security,Medium,12,50.02,3.20
+Legal,Network,Critical,13,3.63,3.20
+Operations,Cloud/Infrastructure,Critical,15,3.65,3.20
+Executive,Cloud/Infrastructure,Critical,13,4.91,3.20
+Executive,Email/Communication,High,15,12.89,3.20
+Logistics,Security,Medium,11,41.08,3.20
+Legal,Cloud/Infrastructure,Critical,6,4.78,3.20
+Engineering,Security,Low,11,86.13,3.20
+Sales,Database,Critical,9,4.68,3.20
+Finance,Security,Low,7,92.82,3.20
+Finance,Network,Low,15,85.82,3.21
+Research,Security,Critical,18,4.65,3.21
+Marketing,Software,High,21,11.86,3.21
+Customer Support,Security,High,26,11.79,3.21
+Operations,Software,Low,39,98.19,3.21
+Procurement,Network,High,37,12.60,3.21
+Executive,Hardware,Low,30,87.37,3.21
+Engineering,Access/Permissions,Low,47,72.45,3.22
+IT,Access/Permissions,Low,41,83.00,3.22
+Operations,Software,Medium,69,36.39,3.22
+Marketing,Network,High,37,14.90,3.22
+Human Resources,Security,High,13,14.52,3.22
+Legal,Software,Medium,50,40.04,3.22
+Marketing,Email/Communication,Medium,31,34.57,3.22
+Logistics,Access/Permissions,High,32,13.79,3.23
+Customer Support,Hardware,Medium,63,36.73,3.23
+Logistics,Software,Low,36,83.00,3.23
+Product,Software,Medium,48,42.48,3.24
+IT,Hardware,Low,39,85.77,3.24
+Executive,Hardware,High,25,14.32,3.24
+Customer Support,Access/Permissions,Low,34,75.62,3.24
+Logistics,Email/Communication,Low,21,92.26,3.25
+Marketing,Security,Low,6,83.83,3.25
+Executive,Email/Communication,Critical,6,5.10,3.25
+Operations,Network,Low,14,80.38,3.25
+Procurement,Hardware,Low,22,103.32,3.25
+Marketing,Software,Critical,8,5.45,3.25
+Legal,Email/Communication,Critical,10,4.40,3.25
+Executive,Software,Low,23,79.05,3.25
+Human Resources,Security,Critical,10,4.23,3.25
+Human Resources,Software,Low,26,92.68,3.25
+Research,Database,Medium,14,39.15,3.25
+Customer Support,Network,Critical,8,4.44,3.25
+Operations,Database,Critical,9,3.24,3.25
+Operations,Network,Critical,15,4.90,3.25
+Human Resources,Cloud/Infrastructure,Medium,16,44.57,3.25
+Operations,Cloud/Infrastructure,High,8,11.41,3.25
+Engineering,Security,Medium,8,26.53,3.25
+Logistics,Security,High,26,11.86,3.26
+Engineering,Hardware,Medium,57,37.50,3.26
+Legal,Network,Low,28,97.95,3.26
+Human Resources,Hardware,Medium,65,39.89,3.26
+Executive,Software,High,26,13.05,3.26
+Research,Network,Medium,53,37.67,3.26
+Logistics,Hardware,Critical,16,4.05,3.27
+Sales,Hardware,High,20,12.72,3.27
+Human Resources,Network,Medium,49,38.45,3.27
+Customer Support,Database,Medium,18,38.70,3.27
+Product,Cloud/Infrastructure,Medium,19,39.49,3.27
+Human Resources,Database,High,14,14.15,3.27
+Human Resources,Hardware,Critical,16,3.79,3.27
+Marketing,Network,Critical,14,4.45,3.27
+IT,Software,Medium,51,37.32,3.28
+Sales,Hardware,Medium,49,36.15,3.28
+Marketing,Cloud/Infrastructure,High,8,12.74,3.29
+Marketing,Hardware,Low,42,94.83,3.29
+IT,Cloud/Infrastructure,Critical,11,4.46,3.29
+Logistics,Cloud/Infrastructure,Low,10,90.77,3.29
+Research,Software,Medium,41,34.69,3.29
+Finance,Database,Low,12,90.17,3.29
+Finance,Software,Medium,58,43.44,3.29
+Executive,Database,Critical,9,4.40,3.29
+Research,Email/Communication,Medium,39,34.09,3.30
+Product,Access/Permissions,Low,40,85.86,3.30
+Customer Support,Security,Critical,15,4.98,3.30
+Finance,Email/Communication,Low,28,88.72,3.30
+Research,Hardware,High,13,11.12,3.30
+Product,Database,High,21,13.40,3.31
+Customer Support,Software,Medium,58,35.97,3.31
+Executive,Hardware,Critical,16,4.66,3.31
+Procurement,Network,Medium,35,38.03,3.31
+Engineering,Database,High,12,12.93,3.33
+Executive,Software,Critical,16,3.91,3.33
+Marketing,Database,Low,4,100.40,3.33
+Finance,Network,High,32,13.36,3.33
+Logistics,Database,High,8,11.22,3.33
+Logistics,Network,Low,30,84.59,3.33
+Marketing,Access/Permissions,Critical,7,3.98,3.33
+Customer Support,Email/Communication,High,8,13.50,3.33
+Engineering,Cloud/Infrastructure,Critical,12,4.07,3.33
+Executive,Access/Permissions,Medium,42,40.95,3.34
+Marketing,Access/Permissions,Low,45,78.13,3.35
+Research,Network,Low,22,86.08,3.35
+Logistics,Hardware,Medium,59,36.92,3.35
+Procurement,Email/Communication,Medium,27,39.30,3.35
+IT,Software,High,35,14.08,3.35
+IT,Hardware,High,27,13.55,3.35
+Logistics,Cloud/Infrastructure,Medium,19,43.96,3.35
+Logistics,Access/Permissions,Medium,38,41.53,3.36
+Legal,Database,High,15,12.63,3.36
+IT,Security,Critical,15,4.65,3.36
+Research,Network,Critical,13,3.07,3.36
+Executive,Email/Communication,Medium,35,37.09,3.36
+Engineering,Cloud/Infrastructure,High,16,17.20,3.36
+Marketing,Database,Critical,17,3.89,3.36
+Human Resources,Network,High,32,13.06,3.36
+Engineering,Hardware,High,25,12.47,3.37
+Sales,Software,Low,28,80.86,3.37
+Legal,Database,Medium,17,37.24,3.38
+Executive,Access/Permissions,Critical,9,3.95,3.38
+Marketing,Database,High,21,12.68,3.38
+Operations,Cloud/Infrastructure,Medium,21,38.86,3.38
+Engineering,Software,Low,34,98.22,3.38
+Legal,Security,Critical,10,5.58,3.38
+Finance,Hardware,High,31,14.15,3.38
+Logistics,Software,Medium,52,36.25,3.38
+Sales,Network,High,36,11.45,3.39
+Legal,Cloud/Infrastructure,Low,11,69.87,3.40
+Operations,Email/Communication,Low,25,85.13,3.40
+Marketing,Cloud/Infrastructure,Critical,14,4.02,3.40
+Research,Access/Permissions,Critical,6,4.54,3.40
+Marketing,Hardware,Medium,54,34.06,3.40
+Human Resources,Cloud/Infrastructure,Low,14,93.12,3.40
+Research,Database,Critical,13,4.14,3.40
+Procurement,Software,Low,40,87.07,3.40
+Procurement,Database,High,13,13.78,3.40
+Customer Support,Cloud/Infrastructure,High,17,9.31,3.40
+Logistics,Email/Communication,Critical,7,4.88,3.40
+Legal,Software,Low,25,97.63,3.40
+Research,Cloud/Infrastructure,Medium,11,40.52,3.40
+Operations,Security,High,17,15.68,3.40
+Sales,Access/Permissions,Medium,56,35.25,3.41
+Operations,Network,Medium,40,34.86,3.41
+Legal,Access/Permissions,Medium,34,36.19,3.41
+Legal,Hardware,High,28,10.38,3.41
+Product,Access/Permissions,Medium,39,34.20,3.41
+Executive,Network,Medium,44,44.36,3.41
+Engineering,Hardware,Low,41,96.01,3.41
+Research,Security,Medium,17,42.78,3.42
+Operations,Hardware,High,17,11.77,3.42
+Legal,Email/Communication,High,14,10.49,3.42
+Procurement,Database,Critical,10,5.11,3.43
+Logistics,Hardware,High,23,13.18,3.43
+Research,Cloud/Infrastructure,Critical,13,4.31,3.44
+Executive,Database,Low,12,92.00,3.44
+Sales,Network,Medium,56,33.49,3.44
+Engineering,Security,High,21,13.34,3.44
+Finance,Hardware,Low,25,70.33,3.44
+Finance,Software,Low,33,88.10,3.44
+Procurement,Hardware,High,32,11.95,3.44
+Customer Support,Network,Medium,50,34.47,3.44
+Logistics,Network,Medium,40,39.99,3.44
+Human Resources,Software,High,28,11.07,3.45
+Engineering,Software,Critical,18,3.89,3.45
+IT,Hardware,Critical,19,4.46,3.46
+Finance,Cloud/Infrastructure,Medium,16,32.88,3.46
+IT,Network,Medium,35,35.22,3.46
+Customer Support,Access/Permissions,High,18,14.93,3.46
+Customer Support,Email/Communication,Medium,41,31.27,3.47
+Finance,Database,Critical,21,4.05,3.47
+Sales,Software,Medium,47,34.72,3.47
+Engineering,Access/Permissions,Medium,38,38.31,3.47
+Human Resources,Email/Communication,Low,23,75.00,3.47
+Operations,Hardware,Medium,39,33.98,3.48
+Legal,Software,Critical,10,3.70,3.50
+IT,Email/Communication,Medium,46,38.91,3.50
+Research,Cloud/Infrastructure,High,11,10.41,3.50
+Product,Database,Medium,15,39.53,3.50
+Operations,Database,High,17,14.88,3.50
+Finance,Security,High,13,12.90,3.50
+Research,Security,High,12,14.73,3.50
+Operations,Hardware,Critical,19,3.89,3.50
+Engineering,Access/Permissions,High,13,9.86,3.50
+Sales,Database,High,13,13.35,3.50
+Legal,Email/Communication,Low,23,92.79,3.50
+Marketing,Security,High,17,13.61,3.50
+Legal,Hardware,Medium,54,34.62,3.50
+Marketing,Cloud/Infrastructure,Low,11,70.26,3.50
+Customer Support,Database,Low,9,69.48,3.50
+Product,Database,Low,9,81.40,3.50
+IT,Security,Low,11,75.58,3.50
+Product,Cloud/Infrastructure,High,7,15.53,3.50
+Legal,Security,Low,5,88.88,3.50
+Marketing,Database,Medium,23,38.23,3.50
+Procurement,Access/Permissions,Critical,5,4.50,3.50
+Customer Support,Security,Low,6,64.15,3.50
+Marketing,Access/Permissions,Medium,44,32.96,3.53
+Procurement,Access/Permissions,Medium,45,32.30,3.53
+Executive,Network,Low,22,100.00,3.53
+Executive,Software,Medium,58,36.27,3.54
+Research,Email/Communication,Low,21,81.27,3.54
+Finance,Access/Permissions,Medium,48,32.81,3.54
+Human Resources,Access/Permissions,Low,34,72.66,3.54
+Procurement,Database,Medium,28,35.91,3.55
+Product,Security,High,26,11.35,3.55
+Product,Cloud/Infrastructure,Low,14,82.49,3.56
+Customer Support,Hardware,Critical,12,4.12,3.56
+Procurement,Software,Medium,56,39.31,3.56
+Operations,Software,Critical,11,4.38,3.56
+Finance,Email/Communication,Critical,11,3.82,3.56
+Product,Network,Medium,53,35.83,3.56
+Logistics,Hardware,Low,30,89.22,3.56
+Product,Software,Critical,12,2.76,3.56
+Executive,Network,Critical,11,4.38,3.56
+Sales,Cloud/Infrastructure,High,10,12.94,3.56
+IT,Email/Communication,High,8,16.00,3.57
+Customer Support,Security,Medium,11,30.00,3.57
+Research,Network,High,21,10.80,3.57
+Human Resources,Email/Communication,High,19,14.22,3.57
+Procurement,Security,Critical,9,3.54,3.57
+Engineering,Software,High,20,13.62,3.57
+Customer Support,Hardware,Low,44,79.20,3.59
+Human Resources,Network,Low,23,82.48,3.60
+Operations,Access/Permissions,Critical,5,3.90,3.60
+Engineering,Database,Critical,12,4.76,3.60
+Operations,Security,Low,7,80.42,3.60
+Operations,Security,Critical,8,2.94,3.60
+Marketing,Software,Medium,49,38.42,3.61
+Operations,Email/Communication,Medium,29,32.93,3.61
+Research,Access/Permissions,Low,41,81.78,3.61
+Product,Security,Critical,11,3.41,3.63
+Procurement,Access/Permissions,Low,38,87.73,3.63
+Marketing,Email/Communication,High,11,12.66,3.63
+Human Resources,Access/Permissions,Medium,41,34.20,3.63
+IT,Cloud/Infrastructure,Medium,16,33.54,3.64
+Operations,Hardware,Low,32,76.22,3.64
+Research,Software,Critical,16,3.48,3.67
+Legal,Cloud/Infrastructure,Medium,11,37.20,3.67
+Executive,Security,Critical,17,4.12,3.67
+Marketing,Email/Communication,Low,13,65.66,3.67
+Customer Support,Cloud/Infrastructure,Critical,11,2.81,3.67
+Sales,Hardware,Critical,20,4.31,3.67
+Research,Access/Permissions,Medium,41,33.82,3.68
+Research,Software,High,21,9.24,3.69
+Operations,Security,Medium,9,44.17,3.71
+IT,Network,Critical,9,4.14,3.71
+Engineering,Security,Critical,7,3.99,3.71
+Sales,Hardware,Low,41,71.81,3.72
+Engineering,Network,Critical,14,3.90,3.73
+Procurement,Cloud/Infrastructure,Low,15,84.37,3.73
+Finance,Security,Medium,14,31.83,3.75
+Procurement,Security,Low,7,94.28,3.75
+Sales,Security,Low,8,59.45,3.75
+Logistics,Database,Low,9,84.80,3.75
+Executive,Security,Medium,14,34.37,3.75
+Human Resources,Access/Permissions,Critical,4,4.03,3.75
+Finance,Access/Permissions,High,27,11.06,3.79
+Operations,Database,Low,6,101.16,3.80
+Logistics,Security,Low,6,87.00,3.80
+Product,Security,Medium,14,31.95,3.80
+Procurement,Email/Communication,Critical,14,3.22,3.80
+Legal,Database,Low,5,84.28,3.80
+Finance,Hardware,Critical,11,4.98,3.80
+Finance,Email/Communication,Medium,44,33.60,3.82
+IT,Cloud/Infrastructure,Low,12,95.55,3.82
+Research,Access/Permissions,High,24,10.56,3.82
+Legal,Hardware,Low,33,78.68,3.83
+IT,Database,Critical,7,2.15,3.83
+IT,Database,High,20,12.75,3.86
+Finance,Network,Medium,46,33.42,3.87
+IT,Access/Permissions,Medium,36,31.08,3.88
+Customer Support,Cloud/Infrastructure,Low,11,81.36,3.89
+Operations,Database,Medium,25,33.49,3.90
+Sales,Email/Communication,Critical,14,4.42,3.91
+Engineering,Network,Low,21,60.49,3.92
+Engineering,Email/Communication,Critical,11,4.07,4.00
+Customer Support,Software,Critical,10,2.65,4.00
+Procurement,Software,Critical,9,3.84,4.00
+Product,Database,Critical,12,3.68,4.00
+Product,Email/Communication,Critical,12,3.83,4.00
+IT,Security,High,11,8.50,4.00
+Logistics,Network,Critical,6,2.93,4.00
+Finance,Access/Permissions,Critical,11,2.96,4.00
+Procurement,Access/Permissions,High,21,9.80,4.00
+Procurement,Security,High,19,12.28,4.00
+Legal,Security,Medium,15,25.85,4.07
+Sales,Cloud/Infrastructure,Critical,15,2.83,4.08
+Sales,Database,Low,7,69.99,4.14
+Finance,Software,Critical,7,2.80,4.25
+Research,Database,Low,6,44.20,4.25
+Sales,Security,Medium,8,30.70,4.33
+IT,Access/Permissions,Critical,2,3.45,4.50
+Procurement,Security,Medium,8,22.63,4.50
+Human Resources,Database,Low,7,60.35,4.50
+Human Resources,Software,Critical,9,2.93,4.67
