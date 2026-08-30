@@ -1,0 +1,201 @@
+urgency,reason,key_issue,valid,error,ticket_id,original_priority,category
+Medium,Security audit requirement,Outdated OS patch,True,,TKT-11602,Low,Software
+High,100% CPU usage causing slowdowns and disruption to work,"High CPU utilization, weekday issue",True,,TKT-12931,High,Database
+High,Consistent decline in network speed,Bandwidth limitations or network issue,True,,TKT-12126,High,Network
+High,Missed meetings impact productivity,Email notifications issue,True,,TKT-19978,Medium,Email/Communication
+Critical,Blocked application and team,Whitelist IP range,True,,TKT-11841,High,Network
+Critical,Consistent decline in network speed causing SLA breach,Bandwidth limits or network issue,True,,TKT-11355,Critical,Network
+Low,"Nobody can access new service, DNS issue",New service access and DNS resolution,True,,TKT-10053,Low,Network
+Critical,Suspicious email causing critical customer-facing service unavailability,Suspicious email & service unavailability,True,,TKT-19241,Critical,Security
+Critical,Multiple team members blocked on daily report printing.,Printer discovery and access issue after desk move,True,,TKT-12130,High,Hardware
+Low,"No immediate threat, just removing former employee's access.",Dealing with access permissions,True,,TKT-15200,Low,Database
+Critical,Completely down and users experiencing 503 errors.,Amazon S3 application failure,True,,TKT-10057,Low,Cloud/Infrastructure
+Critical,Variable traffic blocking tight deadline,Auto-scaling for variable traffic,True,,TKT-12295,High,Cloud/Infrastructure
+High,Connection timeout and error 0x8007045d while trying to access company VPN from home network. Issue started this morning and considered time-sensitive.,VPN Connectivity Problem,True,,TKT-14664,High,Network
+Critical,Calendar system failure causing double bookings and work obstruction,Invalid bookings due to broken calendar,True,,TKT-14057,High,Email/Communication
+Critical,Losing work & workflow disruption,Crashing and loss of data,True,,TKT-11614,High,Software
+High,System slowdown affecting productivity,8GB RAM upgrade consideration,True,,TKT-19859,High,Hardware
+High,App slow and timing out with connection timeouts,Connection Timeouts and Slow Application,True,,TKT-13751,Medium,Cloud/Infrastructure
+High,Full license allocation,Need additional Salesforce licenses,True,,TKT-11954,Low,Software
+Critical,"Application freezing with large files, affecting teamwork",Large file opening issue,True,,TKT-12715,High,Software
+Critical,Immediate work disruption due to Salesforce inaccessibility,Crashing upon launch,True,,TKT-15533,High,Software
+Critical,VPN disconnections impacting customer-facing services,Frequent disconnections and credential re-entry,True,,TKT-13653,Critical,Network
+Low,Low priority mentioned by user,Dual Java version installation,True,,TKT-11391,Low,Software
+High,Interferes with daily workflow and client deliverable,Latest Chrome update disrupts Confluence plugin,True,,TKT-13867,High,Software
+Medium,Inaccessibility after role change,System role update,True,,TKT-14152,Low,Access/Permissions
+Medium,Slow internet affects video calls and downloads on 3rd floor with 40 users.,Slow internet speed,True,,TKT-18666,Low,Network
+High,Insufficient disk space for Microsoft 365 update,Disk space issue,True,,TKT-19807,Medium,Software
+High,Bounce-back errors from inactive email address,Invalid email address,True,,TKT-16046,Medium,Email/Communication
+High,VPN login issue with 2FA,Invalid 2FA code,True,,TKT-18944,High,Network
+Medium,"Minor inconvenience, not urgent","Internet access, Onelogin setup",True,,TKT-16595,Low,Access/Permissions
+High,Permanent error preventing normal use,Unknown paper jam,True,,TKT-13753,Medium,Hardware
+High,Slow internet affecting 40 users.,3rd floor internet speed,True,,TKT-18368,Medium,Network
+Medium,Distracting visual issue,Dead pixels in monitor,True,,TKT-17269,Low,Hardware
+Critical,"Meeting times incorrectly synchronized by 3 hours, missed a meeting.",3 hours time offset in calendar,True,,TKT-18901,High,Email/Communication
+Critical,Blocking installation and tight deadline,Installation freezing at 90%,True,,TKT-19026,High,Software
+Medium,"Minor inconvenience, not urgent at most.",Access denied error without admin rights,True,,TKT-16619,Low,Software
+High,Client deliverable deadline,Non-functional front USB ports,True,,TKT-11249,High,Hardware
+High,Preventing effective collaboration in Team meetings,Screen sharing issue,True,,TKT-13760,Medium,Email/Communication
+Critical,Blocking deployment and teamwork,Open required ports 443 and 8080,True,,TKT-19022,High,Network
+Medium,"Minor inconvenience, not urgent.",Temp admin access for 4-hour deployment,True,,TKT-19339,Low,Access/Permissions
+High,Access to sensitive resources,Account management and access rights,True,,TKT-15176,Medium,Access/Permissions
+Critical,Revenue discrepancy blocking production,Mismatching MySQL and direct database numbers,True,,TKT-14213,Critical,Database
+High,Email sending failure affecting work,NDR message rejection,True,,TKT-16617,Medium,Email/Communication
+High,Regularly locked out account,Account locking issue,True,,TKT-16884,Medium,Access/Permissions
+High,Imbalanced traffic on application servers,Load balancer malfunction,True,,TKT-13122,Medium,Cloud/Infrastructure
+High,Affecting productivity but not a total blocker,Dead USB receiver or malfunctioning mouse,True,,TKT-11208,Medium,Hardware
+Low,"Losing work each time, low priority",Random desktop restart,True,,TKT-16224,Low,Hardware
+High,Unable to receive MFA verification codes,MFA verification codes issue,True,,TKT-12066,High,Access/Permissions
+High,Pixelated appearance distracts in video calls,Broken built-in webcam,True,,TKT-17059,Medium,Hardware
+High,Overdue annual security training for 12 sales team members.,Annual security training overdue,True,,TKT-14950,Medium,Security
+High,Randomly disconnecting second monitor,Monitor disconnection,True,,TKT-12581,Medium,Hardware
+High,Connection refused error and potential firewall blocking issue.,Allow outbound port 8443 traffic,True,,TKT-14861,Medium,Network
+Critical,Critical: Customer-facing services unavailable,Critical threat detected,True,,TKT-15477,Critical,Security
+High,Significant disruption to team's work,New hire account setup,True,,TKT-14995,High,Access/Permissions
+Medium,External monitor not detected on ThinkCentre M90q,Bad ports or adapter,True,,TKT-11852,Low,Hardware
+High,Nearly unusable network performance,Bandwidth limitations potential,True,,TKT-13112,Low,Network
+High,Email sending failure causing disruption to team's work,NDR messages and email relay rejection,True,,TKT-19830,High,Email/Communication
+Critical,Customer-facing services unavailable,MFA verification prompts after device authentication expiration,True,,TKT-11539,Critical,Access/Permissions
+Critical,Critical customer-facing services unavailable due to C: drive space issues,Disk Space Inadequacy,True,,TKT-12785,Critical,Software
+High,Delayed DNS lookups and slow page loads affecting team's work.,Slow DNS & Sluggish Page Loads,True,,TKT-16781,High,Network
+Critical,Immediate issue with essential application,Crash upon opening,True,,TKT-13699,Medium,Software
+High,Client deliverable deadline,Non-functional front USB ports,True,,TKT-12082,High,Hardware
+Critical,Phishing attack causing work disruption,Suspicious emails & blocked team,True,,TKT-13973,Critical,Security
+High,Extended backup duration slows down operations,Long running backup,True,,TKT-14079,Medium,Database
+High,Client deliverable deadline,New hire account setup,True,,TKT-19559,High,Access/Permissions
+Critical,Blocking work completion and essential for project initiation.,Distribution list creation and member access,True,,TKT-12017,High,Email/Communication
+Critical,Severe online connectivity issues,P1: Teams/Zoom call quality,True,,TKT-14740,Critical,Network
+Critical,"Extended file copying time for S: drive, blocking team",S: drive slowdown,True,,TKT-19679,High,Network
+Critical,Blocking work completely,Email sending issue,True,,TKT-14364,High,Email/Communication
+High,Cannot access account,"Forgot password, mismatching security questions",True,,TKT-18403,Medium,Access/Permissions
+Critical,Blocking production and losing revenue every minute.,Monitor resolution issue,True,,TKT-18515,Critical,Hardware
+High,Pages not loading due to recent update,WiFi connectivity issue after update,True,,TKT-11388,Medium,Network
+High,Intermittent timeout causing productivity issues,DNS lookup failures for database hostname,True,,TKT-10624,Medium,Network
+High,Unable to access account due to password reset issue after update,"Forgot password, mismatching security questions post-update",True,,TKT-16010,Medium,Access/Permissions
+Critical,Timing out and intermittent failures impacting meetings.,Juniper SRX DNS lookup failures,True,,TKT-12342,High,Network
+High,Missed meetings impact,Corrupted email system,True,,TKT-15052,Low,Email/Communication
+High,"Consistent decline in network performance from 1pm, impacting user experience and potential productivity.",Unusable network speed after 1pm,True,,TKT-14194,Medium,Network
+Medium,Need service account & database/file share access for new internal service deployment,Service account & database/file share access,True,,TKT-15245,Low,Access/Permissions
+High,"Access to sensitive systems (Sailpoint, sales shared drive)",Account Disabling and Access Removal,True,,TKT-12339,Medium,Access/Permissions
+High,Unexpected restarts causing data loss,Restarting randomly,True,,TKT-11035,Medium,Hardware
+High,System performance issues with limited RAM,RAM upgrade needed for multitasking,True,,TKT-14204,Medium,Hardware
+High,Forticlient timeout and DNS lookup failures impact user access.,DNS lookup failures and intermittent connectivity issues,True,,TKT-14840,Medium,Network
+High,Variable traffic demands auto-scaling for stable performance,Auto-scaling configuration,True,,TKT-14242,Medium,Cloud/Infrastructure
+High,Email access essential for work,Loading profile error,True,,TKT-10011,Medium,Email/Communication
+High,Variable traffic demands auto-scaling for optimal performance.,Auto-scaling configuration,True,,TKT-16959,Medium,Cloud/Infrastructure
+High,Issue with color printing for client meeting tomorrow,Color printing functionality,True,,TKT-14471,Medium,Hardware
+Medium,Bounce-back errors due to inactive employee,Invalid email address,True,,TKT-11030,Medium,Email/Communication
+High,Whitelisting IP range for SaaS vendor's platform update,Single machine update issue,True,,TKT-12005,Medium,Network
+High,Inoperative printer affecting multiple users,Printer malfunction,True,,TKT-18857,Medium,Hardware
+Medium,Blocking tight deadline,Classify new dataset,True,,TKT-11240,Low,Security
+High,No email reception,Distribution list issue,True,,TKT-14473,Low,Email/Communication
+High,Random restarts causing data loss,Random desktop restart,True,,TKT-19233,Low,Hardware
+Critical,Departmental dependency and critical task dependency,Windows 11 upgrade issue,True,,TKT-17644,Medium,Software
+Critical,"Impacting 40 users, work halted, urgent fix needed in an hour.",Slow/unstable 3rd floor internet,True,,TKT-15623,Critical,Network
+High,Emails flagged as spam,Spam filter issue,True,,TKT-10380,Low,Email/Communication
+High,Unable to receive MFA verification codes,MFA verification codes issue,True,,TKT-16043,Medium,Access/Permissions
+High,Full license allocation,Need additional Zoom licenses,True,,TKT-10395,High,Software
+Low,"Low priority, 50 HR workstations",Outdated OS patches,True,,TKT-19367,Low,Software
+Critical,Printing failure halts work,Printer not functioning,True,,TKT-17346,Critical,Hardware
+Low,"Unusable WiFi in building B, affecting multiple people. Remote work possible with low speed.",Unusable WiFi in building B,True,,TKT-10139,Low,Network
+Critical,Interrupting workflow and system security issue,Unknown malicious file (update_helper.exe),True,,TKT-13037,Critical,Security
+Critical,"Lost phone prevents MFA and access to essential services, causing disruption to team's work.",Lost phone MFA access,True,,TKT-19675,High,Access/Permissions
+Critical,Unusual outbound connections causing work stoppage,Unauthorized software or malware,True,,TKT-13641,High,Network
+Medium,Need for service account & database/file share access,Access permissions for internal service,True,,TKT-11800,Low,Access/Permissions
+Low,Regular system slowdown due to insufficient RAM,8GB RAM,True,,TKT-12560,Low,Hardware
+Medium,Imbalanced traffic distribution,Load balancer malfunction,True,,TKT-15049,Low,Cloud/Infrastructure
+High,DNS issue preventing access to running server,Correct DNS registration needed,True,,TKT-12438,Medium,Network
+High,"40 users affected, slow internet causing issues with productivity and time-sensitive.",Slow 3rd floor internet,True,,TKT-12380,High,Network
+Medium,Error preventing update,0x800f081f,True,,TKT-19482,Low,Software
+Medium,Creating distribution list for 15 sales team members.,New project team communication,True,,TKT-18349,Low,Email/Communication
+High,Potential malware or unauthorized software activity,Unusual outbound connections on port 6667,True,,TKT-15191,Critical,Network
+Low,"Low priority, waiting for schedule",No internet access via connected WiFi,True,,TKT-19163,Low,Network
+Low,"Going on leave, setting up out-of-office reply.",Out-of-office setup,True,,TKT-12073,Low,Email/Communication
+High,Need for compliance audit next week,Database backups restorable test,True,,TKT-19703,Medium,Database
+High,Unable to access internal company resources,Name resolution issue with internal domains,True,,TKT-15665,Medium,Network
+High,Microphone not detected in Teams/Zoom,USB Headset Mic Problem,True,,TKT-12350,Medium,Hardware
+Critical,"Blocking production, losing revenue",Forticlient timeout and DNS lookup failures,True,,TKT-10125,Critical,Network
+Medium,Security vulnerability,Outdated OS patches,True,,TKT-16216,Low,Software
+Critical,Departmental dependency and no viable replacement,Windows 11 compatibility,True,,TKT-11948,Medium,Software
+High,Unable to join meetings in Teams,Error joining Teams meetings,True,,TKT-11995,Medium,Email/Communication
+Critical,Conflicting applications causing crashes,Jira and existing CRM tool,True,,TKT-14826,High,Software
+High,Audit next week requiring verification of working and restorable database backups.,Test restore for compliance audit,True,,TKT-10154,Critical,Database
+High,Error preventing software update,0x80073701,True,,TKT-17366,Medium,Software
+High,Frequent screen flickering and blackouts,Graphics issues,True,,TKT-16593,Medium,Hardware
+Critical,Security and update functionality issue,Whitelisting IP range and integration endpoint updates,True,,TKT-19488,High,Network
+High,VPN connection timeout and error 0x80070057,VPN connectivity issue,True,,TKT-17734,Medium,Network
+High,External monitor not detected on Macbook Air M2,External monitor detection,True,,TKT-10050,Medium,Hardware
+Critical,Macro-related Memory Error,Excel Crashes,True,,TKT-10771,Critical,Software
+High,Frequent application crash hampers workflow,Crashing upon launch,True,,TKT-15726,Medium,Software
+Medium,Slow network connection,Anyconnect performance,True,,TKT-17760,Low,Network
+High,Inconvenient scanning process,Email direct scanning,True,,TKT-11928,Medium,Hardware
+Critical,"Search functionality failed, halting teamwork, tried rebuilding index.",Broken Outlook search,True,,TKT-16972,Critical,Email/Communication
+Medium,Audio/Disconnection issue,Call drops & audio issues,True,,TKT-14640,Low,Email/Communication
+High,Time-sensitive issue preventing software update,Error 0x800f081f during Adobe Creative Cloud update,True,,TKT-12638,High,Software
+Critical,Losing work and blocking tight deadline,Crashing Chrome,True,,TKT-16976,High,Software
+High,Completely broken search,Broken email search,True,,TKT-15882,High,Email/Communication
+High,Compliance audit requirement,Full disk encryption,True,,TKT-15825,Low,Security
+Critical,Blank pages and upcoming SLA breach,Toner problem,True,,TKT-16112,Critical,Hardware
+Critical,Automated reports failing due to frequent lockouts,Service account lockouts,True,,TKT-10032,High,Access/Permissions
+Critical,"Random pop-ups, browser redirects, and slow performance indicate potential malware infection causing significant disruption to team's work.",Malware infection,True,,TKT-10141,High,Security
+High,Unable to access account,Mismatching security questions,True,,TKT-10048,Low,Access/Permissions
+Medium,"App A requires Java 8, currently have Java 17 installed.",Dual Java Versions,True,,TKT-17381,Low,Software
+High,Increased productivity and convenience,Scan to email functionality,True,,TKT-10046,Medium,Hardware
+High,Critical work disruption,VPN slowdown,True,,TKT-15798,High,Network
+High,Preventing work and urgent issue,License usage issue,True,,TKT-12315,Medium,Software
+High,Pixelated appearance hampers work,Broken internal webcam,True,,TKT-15146,Critical,Hardware
+Critical,Blocking work completely,Jenkins connection timeout to artifact repository,True,,TKT-15520,High,Network
+Critical,"Extended file copying time for S: drive, blocking team",S: drive slowdown,True,,TKT-10136,High,Network
+High,Insufficient disk space for Confluence update,Disk space issue on C: drive,True,,TKT-10852,Medium,Software
+Low,Blank pages after toner replacement,Blank pages output,True,,TKT-14999,Low,Hardware
+High,"Unusual outbound connections from workstation Elena Petrov-PC to external IPs on port 6667, possibly indicating malware or unauthorized software.",Unusual outbound connections,True,,TKT-19915,Medium,Network
+High,Calendar events misalignment affecting daily scheduling,3-hour time offset,True,,TKT-11949,Medium,Email/Communication
+High,Connection refused error and potential firewall blocking,Access to Fortinet Fortigate via port 8443,True,,TKT-13525,Medium,Network
+High,Missing production backup for compliance reasons.,Production data backup location,True,,TKT-15589,Medium,Cloud/Infrastructure
+High,"Payment processing errors, impacting purchases",Third-party API errors,True,,TKT-14032,Medium,Cloud/Infrastructure
+High,Full license allocation hampers new team members' access,Insufficient Power BI licenses,True,,TKT-13501,High,Software
+High,Account access and Duo Security,Account disable and data removal,True,,TKT-19618,Medium,Access/Permissions
+Medium,Insufficient disk space for update,Disk space issue on C: drive,True,,TKT-12925,Low,Software
+Critical,Preventing client deliverable,Drop calls & audio issues,True,,TKT-15613,High,Email/Communication
+High,Delayed email syncing,Outlook sync issue,True,,TKT-12732,Medium,Email/Communication
+Critical,Preventing client deliverable,Daily account lockouts,True,,TKT-16262,High,Access/Permissions
+High,"Constant, disruptive password prompts",Perpetual password request,True,,TKT-16495,Low,Email/Communication
+High,several daily features broken,latest Slack update issue,True,,TKT-11501,Low,Software
+Critical,"Losing work and blocking production due to frequent Chrome crashes, impacting revenue.",Frequent Chrome crashes and loss of work,True,,TKT-17083,Critical,Software
+High,Buckling application under increased traffic,More capacity needed,True,,TKT-18507,Low,Cloud/Infrastructure
+Medium,Not receiving emails on local machine,Distribution List Email Problems,True,,TKT-11768,Low,Email/Communication
+High,Corrupted data due to bad ETL job,Restore reporting database from last night's backup,True,,TKT-12880,Low,Database
+High,Not receiving group emails on local machine,Machine-specific email issue,True,,TKT-18356,Medium,Email/Communication
+Critical,Encrypted files and inability to access documents justify the high urgency.,Encrypted files access issue after update,True,,TKT-18440,Critical,Security
+High,Imbalanced server load affecting performance,Unbalanced traffic distribution,True,,TKT-10402,Medium,Cloud/Infrastructure
+Critical,Loud grinding noise disrupting work,Internal component issue,True,,TKT-17250,High,Hardware
+Critical,Loud grinding noise production down,Grinding noise inside PC case,True,,TKT-15672,Critical,Hardware
+Low,3-hour time offset issue,Correct calendar events timing,True,,TKT-18950,Low,Email/Communication
+High,Security policy deadline and urgent client deliverable,Bulk MFA enrollment,True,,TKT-13677,High,Access/Permissions
+Critical,Authentication errors preventing MongoDB application from connecting after database server migration.,MongoDB connection authentication errors,True,,TKT-19686,Medium,Database
+Medium,Affecting productivity but not a total blocker.,Service account permissions,True,,TKT-14875,Medium,Access/Permissions
+High,Increased workflow inconvenience after update,Scan to email functionality missing,True,,TKT-19806,Medium,Hardware
+High,MFA Authenticator migration required for security,Transfer MFA app to new phone,True,,TKT-12237,Low,Access/Permissions
+High,Moderately impactful issue,Port forwarding for 443 and 8080,True,,TKT-19846,Medium,Network
+High,Unable to join Teams meetings due to 'something went wrong' error,Meetings join issue after update,True,,TKT-10658,Medium,Email/Communication
+Critical,Preventing client deliverable use,Calendar system malfunction after update,True,,TKT-12016,High,Email/Communication
+High,Phishing attempt interrupts work,"Invalid email, credential verification",True,,TKT-10015,High,Security
+High,Multiple known CVEs,Old CB version,True,,TKT-14973,Medium,Security
+High,Unable to reset password,Expired password and unworking new one,True,,TKT-11292,Low,Access/Permissions
+High,Causes significant disruption to team's work,Err_name_not_resolved installation error,True,,TKT-13820,High,Software
+Critical,Immediate password reset and potential system compromise,Fake login page exposure,True,,TKT-18882,Critical,Security
+High,Distracting visual issue,Dead pixels in monitor,True,,TKT-14493,Low,Hardware
+Low,"Macro stopped working due to memory error, user willing to wait for solution.",Excel memory error and macro not working,True,,TKT-10674,Low,Software
+High,Permanent error with printer,Paper jam issue,True,,TKT-19886,Medium,Hardware
+Low,"Stable internet, working password",Database connection issue,True,,TKT-11382,Low,Database
+Medium,Assisting with out-of-office setup,Outlook out-of-office reply,True,,TKT-10668,Medium,Email/Communication
+High,App A requires Java 8 which is incompatible with currently installed Java 17. This prevents App A from functioning.,Dual Java version installation,True,,TKT-19912,Critical,Software
+Critical,Multiple known CVEs and security mandate,Old Tenable Nessus version,True,,TKT-12079,High,Security
+Medium,"New receptionist starting, password reset needed",Forgetten password and new receptionist,True,,TKT-13589,Low,Access/Permissions
+High,Interrupts daily workflow and tight deadline,Latest Chrome update,True,,TKT-18217,Medium,Software
+Critical,Missed meeting due to lack of permissions,Select permissions on reporting schema,True,,TKT-18014,High,Database
+High,Full license allocation,Need additional licenses,True,,TKT-10118,Medium,Software
+High,Cannot perform multi-factor authentication due to lost phone,Lost phone MFA login issue,True,,TKT-12884,Medium,Access/Permissions
+High,Non-functional front USB ports,Broken front USB ports,True,,TKT-16758,Medium,Hardware
+Critical,500 errors blocking entire team,Random 500 errors in GitHub Actions,True,,TKT-11670,Critical,Cloud/Infrastructure
+High,Freezing during installation,Installer freezing,True,,TKT-15095,Medium,Software
